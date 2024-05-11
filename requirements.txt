@@ -32,7 +32,8 @@ lycoris-lora==0.1.4
 xformers==0.0.22.post7
 # for kohya_ss library
 tensorflow==2.15.1
-torchaudio==2.1.2+cu118
+torchaudio==2.1.2+cu121
 torchtext==0.16.2
+torch==2.1.0+cu121
 # for customize
 .
