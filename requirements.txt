@@ -31,4 +31,6 @@ lion-pytorch==0.0.6
 lycoris-lora==0.1.4
 xformers==0.0.22.post7
 # for kohya_ss library
+tensorflow==2.15.1
+# for cusomize
 .
